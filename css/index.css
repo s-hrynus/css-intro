@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+}
+p {
+    background-color: #aa00fa;
+}
+
+#chosen {
+    border: 10px solid yellow;
+}
+.underline {
+    text-decoration: underline;
+}
+
+div > p {
+    color: aliceblue;
+}
+
+p:hover {
+    font-size: 2rem;
+}
+
+p::first-letter {
+    font-size: 2rem;
+}
